@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "878117009206",
+    "project_id": "cineverse-8b5d3",
+    "storage_bucket": "cineverse-8b5d3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:878117009206:android:848b150fb9e83271936597",
+        "android_client_info": {
+          "package_name": "com.daniel.cineverse"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6033fHm8-G8K0xIfy9qdE6wA40A-DFcc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

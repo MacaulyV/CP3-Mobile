@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">CineVerse</string>
+    <string name="name_hint">Name</string>
+    <string name="email_hint">Email</string>
+    <string name="submit_button">Submit</string>
+    <string name="display_text">Name: %1$s\nEmail: %2$s\nGender: %3$s</string>
+    <string-array name="gender_options">
+        <item>Male</item>
+        <item>Female</item>
+        <item>Other</item>
+    </string-array>
+</resources>
+

@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">CineVerse</string>
+    <string name="name_hint">Nome</string>
+    <string name="email_hint">Email</string>
+    <string name="submit_button">Enviar</string>
+    <string name="display_text">Nome: %1$s\nEmail: %2$s\nGênero: %3$s</string>
+    <string-array name="gender_options">
+        <item>Masculino</item>
+        <item>Feminino</item>
+        <item>Outro</item>
+    </string-array>
+</resources>
+
+
